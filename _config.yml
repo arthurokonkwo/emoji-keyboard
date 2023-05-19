@@ -58,15 +58,15 @@ features                                  :
   
   - title                                 : Diverse Skin Tones
     description                           : Represent yourself accurately with multiple skin tone options.
-    fontawesome_icon_name                 : hand-spock-o
+    fontawesome_icon_name                 : dice
 
   - title                                 : Custom Emojis
     description                           : Add your own unique touch by using custom emojis.
-    fontawesome_icon_name                 : smile-o 
+    fontawesome_icon_name                 : person 
 
   - title                                 : Always Up-to-Date
     description                           : Stay current with the latest emoji releases and updates.
-    fontawesome_icon_name                 : pencil-square-o 
+    fontawesome_icon_name                 : pen-to-square
 
   - title                                 : # FontAwesome Support
     description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
